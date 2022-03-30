@@ -1,0 +1,15 @@
+name: dl
+channels:
+  - defaults
+dependencies:
+  - jupyterlab=3.2.9
+  - matplotlib=3.5.1
+  - conda-forge::opencv=4.5.5
+  - openpyxl=3.0.9
+  - pandas=1.4.1
+  - pillow=9.0.1  
+  - conda-forge::python=3.10.2
+  - scikit-learn=1.0.2
+  - conda-forge::tensorboard=2.6.0
+  - conda-forge::tensorflow=2.7.0
+  - tqdm=4.62.3
